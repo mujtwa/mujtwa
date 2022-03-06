@@ -5,7 +5,7 @@
 
 <br>
 <p>
-This is <strong> Mujtaba Ali </strong> and I am a Data Science enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Engineering, Cloud, and DevOps to achieve a level of Full-Stack Data Science. I live in Pune, India. 
+This is <strong><i> Mujtaba Ali </i></strong> and I am a <strong><i> Data Science </i></strong> enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Engineering, Cloud, and DevOps to achieve a level of <strong><i> Full-Stack Data Science </i></strong> . I live in Rampur, India. 
 </p>
 <a href="/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/linkedin.com/in/santosh-saxena"><img src="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/raw/main/Images/Linkedin.png" height="20" style="max-width: 100%;"><img style="max-width: 100%;"></a>
 <!--
