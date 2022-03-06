@@ -8,9 +8,11 @@ This is <strong><i> Mujtaba Ali </i></strong> and I am a <strong><i> Data Scienc
 Anyone can find me on:  
 </p>
 
-<a href="https://github.com/mujtwa"><img src="https://github.com/mujtwa/setup/blob/main/linkdinlogo.png" height="20" style="max-width: 100%;"><img style="max-width: 100%;"></a>
+<p dir="auto">&nbsp;<a href="https://github.com/mujtwa/"><img src="https://github.com/mujtwa/setup/blob/main/linkdinlogo.png" height="20" style="max-width: 100%;"><img style="max-width: 100%;"></a>
+&nbsp;<a href="https://www.instagram.com/mujtwa/" rel="nofollow"><img src="https://github.com/mujtwa/setup/blob/main/instalogo.png" height="20" style="max-width: 100%;"><img style="max-width: 100%;"></a>
+&nbsp;<a href="https://twitter.com/Mujtwa" rel="nofollow"><img src="https://github.com/mujtwa/setup/blob/main/twitterlogo.jpg" height="20" style="max-width: 100%;"><img style="max-width: 100%;"></a>
 
-<a href="/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/linkedin.com/in/santosh-saxena"><img src="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/raw/main/Images/Linkedin.png" height="20" style="max-width: 100%;"><img style="max-width: 100%;"></a>
+
 <!--
 **mujtwa/mujtwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
