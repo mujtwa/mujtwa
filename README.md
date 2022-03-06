@@ -1,11 +1,12 @@
-### Hi there 👋
-
-
 ![istockphoto (1)](https://user-images.githubusercontent.com/74107667/156907927-f76db870-fc89-4d30-ba17-04d6fbfa18c7.jpg)
 
+<br>
+<h2>Greetings Respected viewers </h2>
 
-
-
+<br>
+<p>
+This is <strong> Mujtaba Ali </strong> and I am a Data Science enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Engineering, Cloud, and DevOps to achieve a level of Full-Stack Data Science. I live in Pune, India. 
+</p>
 <a href="/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/linkedin.com/in/santosh-saxena"><img src="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/raw/main/Images/Linkedin.png" height="20" style="max-width: 100%;"><img style="max-width: 100%;"></a>
 <!--
 **mujtwa/mujtwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
