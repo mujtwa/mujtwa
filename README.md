@@ -12,6 +12,9 @@ Anyone can find me on:
 &nbsp;<a href="https://www.instagram.com/mujtwa/" rel="nofollow"><img src="https://github.com/mujtwa/setup/blob/main/instalogo.png" height="20" style="max-width: 100%;"><img style="max-width: 100%;"></a>
 &nbsp;<a href="https://twitter.com/Mujtwa" rel="nofollow"><img src="https://github.com/mujtwa/setup/blob/main/twitterlogo.jpg" height="20" style="max-width: 100%;"><img style="max-width: 100%;"></a>
 
+  
+ <p dir="auto">Anyone can also contact me via
+&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://github.com/mujtwa/setup/blob/main/Gmaillogo.png"><img src="https://github.com/mujtwa/setup/blob/main/Gmaillogo.png" width="50" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href=""><img style="max-width: 100%;"></a> : <a href="mailto:mujtwa@gmail.com">mujtwa@gmail.com</a></p>
 
 <!--
 **mujtwa/mujtwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
