@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-![ds (3)](https://user-images.githubusercontent.com/74107667/156907720-84c039c9-8429-49f2-b4f0-eb1a2686e07a.jpg)
-
 
 <a href="/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/linkedin.com/in/santosh-saxena"><img src="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/raw/main/Images/Linkedin.png" height="20" style="max-width: 100%;"><img style="max-width: 100%;"></a>
 <!--
