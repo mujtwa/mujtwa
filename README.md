@@ -4,7 +4,7 @@
 <h2>Greetings Respected viewers </h2>
 
 <p>
-This is <strong><i> Mujtaba Ali </i></strong> and I am a <strong><i> Data Science </i></strong> enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Engineering, Cloud, and DevOps to achieve a level of <strong><i> Full-Stack Data Science </i></strong> . I live in Rampur, India.
+This is <strong><i> Mujtaba Ali </i></strong> and I am a <strong><i> Data Science </i></strong> enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Engineering, Cloud, and DevOps to achieve a level of <strong><i> Full-Stack Data Science </i></strong>.
 Anyone can find me on:  
 </p>
 
